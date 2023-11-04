@@ -7,11 +7,11 @@ Os jogadores devem equilibrar suas interações sociais com os personagens, toma
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#-funcionalidades)
-   * [Layout](#-layout)
-   * [Como executar o projeto](#-como-executar-o-projeto)
-   * [Autor](#-autor)
+   * [Sobre o projeto](#sobre-o-projeto-)
+   * [Funcionalidades](#funcionalidades-)
+   * [Layout](#layout)
+   * [Como executar o projeto](#como-executar-o-projeto)
+   * [Autor](#autor)
 <!--te-->
 
 
